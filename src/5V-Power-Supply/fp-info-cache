@@ -1,4 +1,4 @@
-19834797770354916
+19836445419463174
 5V-Power_supply1
 CAP_0603
 <b>CAPACITOR</b>
@@ -48,6 +48,13 @@ mounting hole 4.3mm no annular m4 din965
 0
 0
 0
+5V-Power_supply1
+RB160VAM-60TR
+
+
+0
+2
+2
 5V-Power_supply1
 RES_0603
 <b>RESISTOR</b>
